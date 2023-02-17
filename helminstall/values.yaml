@@ -952,7 +952,7 @@ git:
     ##
     repositories:
       # - repository: https://gitlab.sas.com/chris/airflowkubernetes
-      - repository: https://github.com/skatmeister/dag
+      - repository: https://github.com/skatmeister/airflowkubernetes
         ## Branch from repository to checkout
         ##
         branch: main
